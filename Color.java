@@ -1,6 +1,8 @@
-/*
- *	Color class
- */
+// == CS400 Summer 2024 File Header Information ==
+// Name: YU CHEN
+// Email: <chen2387@wisc.edu>
+// Lecturer: Jiazhen Zhou
+// CS user name: chen2387
 public class Color {
     private String color;
 
