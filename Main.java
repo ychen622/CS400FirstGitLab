@@ -15,7 +15,7 @@ public class Main{
 		if( myColor.changeColor(newColor)){
 			System.out.println("The new color is:"+myColor.getColor());
 		}
-		else{
+		else{ 
 			System.out.println("Color change failed! ");
 		}
 	}
